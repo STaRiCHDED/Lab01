@@ -152,6 +152,7 @@ $ gist REPORT.md
 - [x] 11. Найдите *топ10* самых "тяжёлых".
 
 #Homework
+```sh
 1.
 $ wget https://sourceforge.net/projects/boost/files/boost/1.69.0/boost_1_69_0.tar.gz
 2.
@@ -228,8 +229,8 @@ $ find . type -f -exec du -h {} +|sort -rh | head -n 10 # тoп 10 самых "�
 8,1M ./libboost_math_tr1f.a
 7,8M ./libboost_math_tr1.a
 7,7M ./libboost_math_tr1l.a
-
-
 ```
+
+```sh
 Copyright (c) 2015-2020 The ISC Authors
 ```
